@@ -1,4 +1,4 @@
-# -*- cofing: utf-8 -*-
+# -*- coding: utf-8 -*-
 import sys
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
